@@ -1,0 +1,172 @@
+[
+  {
+    "name": "postcode",
+    "type": "integer",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "no_ind_lodging_tax_return",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_taxable_income_loss",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_taxable_income_loss",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_taxable_income_loss",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "proportion_with_wages",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_wages",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_wages",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_wages",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "proportion_with_net_rent",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_net_rent",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_net_rent",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_net_rent",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_tot_income_loss",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_tot_income_loss",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_tot_income_losss",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_tot_deductions",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_tot_deductions",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_tot_deductions",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "proportion_with_business_income",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_business_income",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_business_income",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_business_income",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "proportion_with_business_expenses",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_business_expenses",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_business_expenses",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_business_expenses",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "proportion_with_net_tax",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_net_tax",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_net_tax",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_net_tax",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "count_super_balance",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "avg_super_balance",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "median_super_balance",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+  }
+]
