@@ -57,7 +57,7 @@ First create a dataset `lake` to hold the table.  Load the file into the new tab
 
 Postcode to state and locality mapping will be useful.  This information is available at this [site](https://www.matthewproctor.com/Content/postcodes/australian_postcodes.csv) although the latest postcodes changes may be missing.  This data was loaded using the --skip_leading_rows and --autodetect flags.
 
-![BQ load postcode file](images/cloudShellBQloadIndTax.png)
+![BQ load postcode file](images/cloudShellBQloadPostcodes.png)
 
 Both tables are now available on the GCP Console in the `lake` dataset.
 
